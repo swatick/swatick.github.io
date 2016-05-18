@@ -1,0 +1,36 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.header {
+    background-color: white;
+    padding: 30px;
+}
+
+.footer {
+    background-color: #232323;
+    color: white;
+    min-height: 100px;
+    padding: 30px;
+}
+
+.content {
+    background-color: #4b7dbf;
+    color: white;
+    padding: 60px;
+}
+
+.content h1 {
+    font-size: 50px;
+}
+
+button {
+    border: none;
+    background: none;
+    color: #337ab7;
+}
+
+button:hover {
+    text-decoration: underline;
+    color: -webkit-link;
+}
